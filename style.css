@@ -1,0 +1,16 @@
+canvas {
+	background: grey;
+	padding: 0;
+	margin: 0 auto;
+	margin-bottom: 1rem;
+	display: block;
+	border: 4px solid black;
+}
+
+#score {
+	position: absolute;
+	top: 40%;
+	left: 2%;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 4rem;
+}
